@@ -20,4 +20,9 @@
     <color name="colorAccent">#2cb365</color>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="purple_250">#FFBB86FC</color>
+    <color name="purple_550">#FF6200EE</color>
+    <color name="purple_750">#FF3700B3</color>
+    <color name="teal_250">#FF03DAC5</color>
+    <color name="teal_750">#FF018786</color>
 </resources>
